@@ -1,6 +1,6 @@
 # Computer-structure-and-operating-system-for-studying-alone
-혼자 공부하는 컴퓨터 구조+운영체제
-<br>
+혼자 공부하는 컴퓨터 구조+운영체제 - 강민철
+<br><br>
 '혼자 공부하는 컴퓨터 구조+운영체제'를 읽고 토론하며 정리하는 스터디<br><br>
 
 # Member
